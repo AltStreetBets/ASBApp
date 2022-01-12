@@ -24,7 +24,7 @@ const reddit = new snoowrap({
 
 reddit.config({
     continueAfterRatelimitError: true,
-    requestDelay: 100,
+    requestDelay: 10100,
 });
 
 
